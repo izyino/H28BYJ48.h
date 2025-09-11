@@ -1,0 +1,14 @@
+PCI_UG_Tx   KEYWORD1
+begin       KEYWORD2
+runStep     KEYWORD2
+runDC       KEYWORD2
+stepstogo   KEYWORD2
+timetogo    KEYWORD2
+beep        KEYWORD2
+led         KEYWORD2
+setms       KEYWORD2
+getms       KEYWORD2
+stopStep    KEYWORD2
+stopDC      KEYWORD2
+stopBeep    KEYWORD2
+stopLed     KEYWORD2
